@@ -1,0 +1,53 @@
+/*! purgecss start ignore */
+@tailwind base;
+@font-face {
+  font-family: Belwe;
+  font-weight: 400;
+  src: url("../fonts/Belwe Medium.otf") format("woff");
+}
+
+html {
+  font-family: Belwe;
+}
+
+@tailwind components;
+
+/*! purgecss end ignore */
+@tailwind utilities;
+
+.aoe {
+  filter: drop-shadow(0 0 1.1rem #e53e3e);
+}
+.silence {
+  filter: drop-shadow(0 0 1.1rem #38a169);
+}
+.heal {
+  filter: drop-shadow(0 0 1.1rem #d69e2e);
+}
+/* width */
+.sidebar::-webkit-scrollbar {
+  width: 6px;
+}
+
+/* Track */
+.sidebar::-webkit-scrollbar-track {
+  background: #dddddd;
+}
+
+/* Handle */
+.sidebar::-webkit-scrollbar-thumb {
+  background: rgb(112, 112, 112);
+}
+
+/* Handle on hover */
+.sidebar::-webkit-scrollbar-thumb:hover {
+  background: rgb(112, 112, 112);
+}
+
+.intent {
+  bottom: 15%;
+}
+
+.card:hover .intent {
+  bottom: 3%;
+}

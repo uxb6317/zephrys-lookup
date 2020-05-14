@@ -1,0 +1,692 @@
+[
+  {
+    "name": "Moonfire",
+    "cost": 0,
+    "intent": ""
+  },
+  {
+    "name": "Backstab",
+    "cost": 0,
+    "intent": ""
+  },
+  {
+    "name": "Silence",
+    "cost": 0,
+    "intent": "silence"
+  },
+  {
+    "name": "Power Word: Shield",
+    "cost": 0,
+    "intent": ""
+  },
+  {
+    "name": "Inner Rage",
+    "cost": 0,
+    "intent": ""
+  },
+  {
+    "name": "Sacrificial Pact",
+    "cost": 0,
+    "intent": "heal"
+  },
+  {
+    "name": "Dread Corsair",
+    "cost": 0,
+    "intent": ""
+  },
+  {
+    "name": "Sea Giant",
+    "cost": 0,
+    "intent": ""
+  },
+  {
+    "name": "Mortal Coil",
+    "cost": 1,
+    "intent": ""
+  },
+  {
+    "name": "Frost Shock",
+    "cost": 1,
+    "intent": ""
+  },
+  {
+    "name": "Arcane Shot",
+    "cost": 1,
+    "intent": ""
+  },
+  {
+    "name": "Holy Smite",
+    "cost": 1,
+    "intent": ""
+  },
+  {
+    "name": "Lightning Bold",
+    "cost": 1,
+    "intent": ""
+  },
+  {
+    "name": "Soulfire",
+    "cost": 1,
+    "intent": ""
+  },
+  {
+    "name": "Earth Shock",
+    "cost": 1,
+    "intent": "silence"
+  },
+  {
+    "name": "Whirlwind",
+    "cost": 1,
+    "intent": "aoe"
+  },
+  {
+    "name": "Forked Lightning",
+    "cost": 1,
+    "intent": ""
+  },
+  {
+    "name": "Hungry Crab",
+    "cost": 1,
+    "intent": ""
+  },
+  {
+    "name": "Bloodsail Corsair",
+    "cost": 1,
+    "intent": ""
+  },
+  {
+    "name": "Humility",
+    "cost": 1,
+    "intent": ""
+  },
+  {
+    "name": "Savagery",
+    "cost": 1,
+    "intent": ""
+  },
+  {
+    "name": "Shield Slam",
+    "cost": 1,
+    "intent": ""
+  },
+  {
+    "name": "Radiance",
+    "cost": 1,
+    "intent": "heal"
+  },
+  {
+    "name": "Inner Fire",
+    "cost": 1,
+    "intent": ""
+  },
+  {
+    "name": "Flame Imp",
+    "cost": 1,
+    "intent": ""
+  },
+  {
+    "name": "Voidwalker",
+    "cost": 1,
+    "intent": ""
+  },
+  {
+    "name": "Eviscerate",
+    "cost": 2,
+    "intent": ""
+  },
+  {
+    "name": "Sap",
+    "cost": 2,
+    "intent": "silence"
+  },
+  {
+    "name": "Execute",
+    "cost": 2,
+    "intent": ""
+  },
+  {
+    "name": "Betrayal",
+    "cost": 2,
+    "intent": ""
+  },
+  {
+    "name": "Cleave",
+    "cost": 2,
+    "intent": ""
+  },
+  {
+    "name": "Shadow Word: Death",
+    "cost": 2,
+    "intent": ""
+  },
+  {
+    "name": "Cold Blood",
+    "cost": 2,
+    "intent": ""
+  },
+  {
+    "name": "Chaos Strike",
+    "cost": 2,
+    "intent": ""
+  },
+  {
+    "name": "Arcane Explosion",
+    "cost": 2,
+    "intent": "aoe"
+  },
+  {
+    "name": "Heroic Strike",
+    "cost": 2,
+    "intent": ""
+  },
+  {
+    "name": "Windfury",
+    "cost": 2,
+    "intent": ""
+  },
+  {
+    "name": "Mark of the Wild",
+    "cost": 2,
+    "intent": ""
+  },
+  {
+    "name": "Power of the Wild",
+    "cost": 2,
+    "intent": ""
+  },
+  {
+    "name": "Kul Tiran Chaplain",
+    "cost": 2,
+    "intent": ""
+  },
+  {
+    "name": "Crazed Alchemist",
+    "cost": 2,
+    "intent": ""
+  },
+  {
+    "name": "Acidic Swamp Ooze",
+    "cost": 2,
+    "intent": ""
+  },
+  {
+    "name": "Flare",
+    "cost": 2,
+    "intent": ""
+  },
+  {
+    "name": "Loot Hoarder",
+    "cost": 2,
+    "intent": ""
+  },
+  {
+    "name": "Thoughtsteal",
+    "cost": 2,
+    "intent": ""
+  },
+  {
+    "name": "Battle Rage",
+    "cost": 2,
+    "intent": ""
+  },
+  {
+    "name": "Holy Light",
+    "cost": 2,
+    "intent": "heal"
+  },
+  {
+    "name": "Kill Command",
+    "cost": 3,
+    "intent": ""
+  },
+  {
+    "name": "SI:7 Agent",
+    "cost": 3,
+    "intent": ""
+  },
+  {
+    "name": "Lava Burst",
+    "cost": 3,
+    "intent": ""
+  },
+  {
+    "name": "Deadly Shot",
+    "cost": 3,
+    "intent": ""
+  },
+  {
+    "name": "Lightning Storm",
+    "cost": 3,
+    "intent": "aoe"
+  },
+  {
+    "name": "Soul Cleave",
+    "cost": 3,
+    "intent": "heal"
+  },
+  {
+    "name": "Coordinated Strike",
+    "cost": 3,
+    "intent": ""
+  },
+  {
+    "name": "Aldrachi Warblades",
+    "cost": 3,
+    "intent": "heal"
+  },
+  {
+    "name": "Eaglehorn Bow",
+    "cost": 3,
+    "intent": ""
+  },
+  {
+    "name": "Fan of Knives",
+    "cost": 3,
+    "intent": ""
+  },
+  {
+    "name": "Shadow Madness",
+    "cost": 3,
+    "intent": "silence"
+  },
+  {
+    "name": "Ironbeak Owl",
+    "cost": 3,
+    "intent": "silence"
+  },
+  {
+    "name": "Savage Road",
+    "cost": 3,
+    "intent": ""
+  },
+  {
+    "name": "Wild Growth",
+    "cost": 3,
+    "intent": ""
+  },
+  {
+    "name": "Frost Nova",
+    "cost": 3,
+    "intent": "aoe"
+  },
+  {
+    "name": "Healing Touch",
+    "cost": 3,
+    "intent": "heal"
+  },
+  {
+    "name": "Brightwing",
+    "cost": 3,
+    "intent": ""
+  },
+  {
+    "name": "Animal Companion",
+    "cost": 3,
+    "intent": ""
+  },
+  {
+    "name": "Edwin VanCleef",
+    "cost": 3,
+    "intent": ""
+  },
+  {
+    "name": "Blood Knight",
+    "cost": 3,
+    "intent": ""
+  },
+  {
+    "name": "King Mukla",
+    "cost": 3,
+    "intent": ""
+  },
+  {
+    "name": "Arcane Intellect",
+    "cost": 3,
+    "intent": ""
+  },
+  {
+    "name": "Satyr Overseer",
+    "cost": 3,
+    "intent": ""
+  },
+  {
+    "name": "Southsea Captain",
+    "cost": 3,
+    "intent": ""
+  },
+  {
+    "name": "Murloc Warleader",
+    "cost": 3,
+    "intent": ""
+  },
+  {
+    "name": "Coldlight Seer",
+    "cost": 3,
+    "intent": ""
+  },
+  {
+    "name": "Shadow Word: Ruin",
+    "cost": 4,
+    "intent": "aoe"
+  },
+  {
+    "name": "Hex",
+    "cost": 4,
+    "intent": "silence"
+  },
+  {
+    "name": "Holy Nova",
+    "cost": 4,
+    "intent": "aoe"
+  },
+  {
+    "name": "Shadowflame",
+    "cost": 4,
+    "intent": "aoe"
+  },
+  {
+    "name": "Hellfire",
+    "cost": 4,
+    "intent": ""
+  },
+  {
+    "name": "Fireball",
+    "cost": 4,
+    "intent": ""
+  },
+  {
+    "name": "Multi-Shot",
+    "cost": 4,
+    "intent": ""
+  },
+  {
+    "name": "Swipe",
+    "cost": 4,
+    "intent": ""
+  },
+  {
+    "name": "Truesilver Champion",
+    "cost": 4,
+    "intent": "heal"
+  },
+  {
+    "name": "Mass Dispel",
+    "cost": 4,
+    "intent": "silence"
+  },
+  {
+    "name": "Soul of the Forest",
+    "cost": 4,
+    "intent": ""
+  },
+  {
+    "name": "Defender of Argus",
+    "cost": 4,
+    "intent": ""
+  },
+  {
+    "name": "Blessing of Kings",
+    "cost": 4,
+    "intent": ""
+  },
+  {
+    "name": "Twilight Drake",
+    "cost": 4,
+    "intent": ""
+  },
+  {
+    "name": "SI:7 Infiltrator",
+    "cost": 4,
+    "intent": ""
+  },
+  {
+    "name": "Power Infusion",
+    "cost": 4,
+    "intent": ""
+  },
+  {
+    "name": "Water Elemental",
+    "cost": 4,
+    "intent": ""
+  },
+  {
+    "name": "Houndmaster",
+    "cost": 4,
+    "intent": ""
+  },
+  {
+    "name": "Brawl",
+    "cost": 5,
+    "intent": "aoe"
+  },
+  {
+    "name": "Chaos Nova",
+    "cost": 5,
+    "intent": "aoe"
+  },
+  {
+    "name": "Assassinate",
+    "cost": 5,
+    "intent": ""
+  },
+  {
+    "name": "Explosive Shot",
+    "cost": 5,
+    "intent": ""
+  },
+  {
+    "name": "Starfall",
+    "cost": 5,
+    "intent": ""
+  },
+  {
+    "name": "Glaivebound Adept",
+    "cost": 5,
+    "intent": ""
+  },
+  {
+    "name": "Druid of the Claw",
+    "cost": 5,
+    "intent": ""
+  },
+  {
+    "name": "Stampeding Kodo",
+    "cost": 5,
+    "intent": ""
+  },
+  {
+    "name": "Big Game Hunter",
+    "cost": 5,
+    "intent": ""
+  },
+  {
+    "name": "Bloodlust",
+    "cost": 5,
+    "intent": ""
+  },
+  {
+    "name": "Assassin's Blade",
+    "cost": 5,
+    "intent": ""
+  },
+  {
+    "name": "Arcanite Reaper",
+    "cost": 5,
+    "intent": ""
+  },
+  {
+    "name": "Doomhammer",
+    "cost": 5,
+    "intent": ""
+  },
+  {
+    "name": "Temple Enforcer",
+    "cost": 5,
+    "intent": ""
+  },
+  {
+    "name": "Faceless Manipulator",
+    "cost": 5,
+    "intent": ""
+  },
+  {
+    "name": "Harrison Jones",
+    "cost": 5,
+    "intent": ""
+  },
+  {
+    "name": "Blessed Champion",
+    "cost": 5,
+    "intent": ""
+  },
+  {
+    "name": "Earth Elemental",
+    "cost": 5,
+    "intent": ""
+  },
+  {
+    "name": "Siphon Soul",
+    "cost": 6,
+    "intent": "heal"
+  },
+  {
+    "name": "Blizzard",
+    "cost": 6,
+    "intent": "aoe"
+  },
+  {
+    "name": "Avenging Wrath",
+    "cost": 6,
+    "intent": ""
+  },
+  {
+    "name": "Fire Elemental",
+    "cost": 6,
+    "intent": ""
+  },
+  {
+    "name": "The Black Knight",
+    "cost": 6,
+    "intent": ""
+  },
+  {
+    "name": "Cabal Shadow Priest",
+    "cost": 6,
+    "intent": "silence"
+  },
+  {
+    "name": "Dread Infernal",
+    "cost": 6,
+    "intent": ""
+  },
+  {
+    "name": "Savannah Highmane",
+    "cost": 6,
+    "intent": ""
+  },
+  {
+    "name": "Nourish",
+    "cost": 6,
+    "intent": ""
+  },
+  {
+    "name": "Flamestrike",
+    "cost": 7,
+    "intent": "aoe"
+  },
+  {
+    "name": "Baron Geddon",
+    "cost": 7,
+    "intent": ""
+  },
+  {
+    "name": "Guardian of Kings",
+    "cost": 7,
+    "intent": "heal"
+  },
+  {
+    "name": "Gorehowl",
+    "cost": 7,
+    "intent": ""
+  },
+  {
+    "name": "Gladiator's Longbow",
+    "cost": 7,
+    "intent": ""
+  },
+  {
+    "name": "High Inquisitor Whitemane",
+    "cost": 7,
+    "intent": ""
+  },
+  {
+    "name": "Ancient of War",
+    "cost": 7,
+    "intent": ""
+  },
+  {
+    "name": "Sprint",
+    "cost": 7,
+    "intent": ""
+  },
+  {
+    "name": "Twisting Nether",
+    "cost": 8,
+    "intent": "aoe"
+  },
+  {
+    "name": "Natalie Seline",
+    "cost": 8,
+    "intent": ""
+  },
+  {
+    "name": "Tirion Fordring",
+    "cost": 8,
+    "intent": ""
+  },
+  {
+    "name": "Lay on Hands",
+    "cost": 8,
+    "intent": "heal"
+  },
+  {
+    "name": "Inner Demon",
+    "cost": 8,
+    "intent": ""
+  },
+  {
+    "name": "Alexstrasza",
+    "cost": 9,
+    "intent": "heal"
+  },
+  {
+    "name": "Lord Jaraxxus",
+    "cost": 9,
+    "intent": "heal"
+  },
+  {
+    "name": "Ysera",
+    "cost": 9,
+    "intent": ""
+  },
+  {
+    "name": "King Krush",
+    "cost": 9,
+    "intent": ""
+  },
+  {
+    "name": "Deathwing",
+    "cost": 10,
+    "intent": ""
+  },
+  {
+    "name": "Mind Control",
+    "cost": 10,
+    "intent": "silence"
+  },
+  {
+    "name": "Pyroblast",
+    "cost": 10,
+    "intent": ""
+  }
+]

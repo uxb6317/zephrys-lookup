@@ -1,21 +1,68 @@
 import React from "react"
-import { Link } from "gatsby"
+import { useStaticQuery, graphql } from "gatsby"
+import Img from "gatsby-image"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
-import SEO from "../components/seo"
 
-const IndexPage = () => (
-  <Layout>
-    <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
-  </Layout>
-)
+const HomePage = () => {
+  const data = useStaticQuery(graphql`
+    query {
+      file(relativePath: { eq: "Zephrys.png" }) {
+        childImageSharp {
+          fluid {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+    }
+  `)
 
-export default IndexPage
+  return (
+    <Layout>
+      <div className="flex flex-col items-center">
+        <div className="flex max-w-sm w-full justify-between">
+          <span
+            style={{
+              transform: "rotate(-30deg)",
+            }}
+            className="text-6xl font-bold text-green-600 silence mt-10"
+          >
+            ?
+          </span>
+          <span className="text-6xl font-bold text-red-600 aoe">?</span>
+          <span
+            style={{
+              transform: "rotate(30deg)",
+            }}
+            className="text-6xl font-bold text-yellow-600 heal mt-10"
+          >
+            ?
+          </span>
+        </div>
+        <div className="max-w-sm w-full">
+          <Img fluid={data.file.childImageSharp.fluid} />
+        </div>
+        <div className="mt-10 max-w-lg border p-3 text-gray-400">
+          <div>
+            Data and images from{" "}
+            <a className="text-green-500" href="https://hearthstonejson.com/">
+              https://hearthstonejson.com
+            </a>
+          </div>
+          <div>
+            Idea from{" "}
+            <a
+              href="https://www.twitch.tv/crispywafflestv"
+              className="text-green-500"
+            >
+              crispywafflestv
+            </a>
+          </div>
+          <div>Made with Gatsby and Tailwind</div>
+        </div>
+      </div>
+    </Layout>
+  )
+}
+
+export default HomePage
