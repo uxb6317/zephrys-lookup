@@ -26,7 +26,7 @@ const Layout = ({ children }) => {
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
       <Sidebar />
-      <main className="ml-24 px-10 pt-26 min-h-screen bg-gray-800">
+      <main className="ml-24 px-4 pt-26 min-h-screen bg-gray-800 md:px-10">
         {children}
       </main>
     </>

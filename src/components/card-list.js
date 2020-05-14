@@ -22,7 +22,7 @@ const CardList = ({ cards }) => {
   return (
     <div
       style={{
-        gridTemplateColumns: "repeat(auto-fill, minmax(170px, 1fr))",
+        gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))",
       }}
       className="grid pb-10 -mt-10"
     >
